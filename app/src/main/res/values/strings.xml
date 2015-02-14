@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SunShine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_setting">SettingsActivity</string>
+    <string-array name="units_entries">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+</resources>
